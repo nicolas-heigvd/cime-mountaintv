@@ -1,0 +1,11 @@
+.env
+INPUT/
+report/
+mesh/
+MICMAC/
+.*/
+Frames_sample/
+PC/
+*.zip
+CMake*
+*.old
